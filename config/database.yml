@@ -8,3 +8,7 @@ development:
 
 production:
   <<: *default
+  host: dpg-cv1kp5l2ng1s738gmi5g-a
+  database: s_original_dvmr
+  username: s_original_dvmr_user
+  password: D3DboQvXFABNxVaG4jpoaTtSbOCszKkx
